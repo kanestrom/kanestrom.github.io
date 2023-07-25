@@ -12,13 +12,13 @@ function App() {
 
         <img src={logo} className="App-logo" alt="logo" />
       </header>
-      <a
+      <a className="App-link"
         href="https://www.instagram.com/kanestrom.art/"
         target="_blank"
         rel="noopener noreferrer">
         <img src={instagram} className="Social-logo" alt="logo" />
       </a>
-      <a 
+      <a className="App-link"
           href="https://www.facebook.com/gallerirkk/"
           target="_blank"
         rel="noopener noreferrer">
