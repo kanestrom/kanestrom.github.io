@@ -11,7 +11,7 @@ function Body() {
       <Accordion>
         <Accordion.Item eventKey="0">
           {/* <Accordion.Header>BIOGRAFI OG BESKRIVELSE AV KUNSTNERSTIL (NORSK)</Accordion.Header> */}
-          <Accordion.Header>Biografi og beskrivelse av kunstnerstil (Norsk)</Accordion.Header>
+          <Accordion.Header>Biografi og kunstnerstil (Norsk)</Accordion.Header>
           <Accordion.Body>
 
             <h2>Biografi
