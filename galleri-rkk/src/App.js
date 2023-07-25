@@ -12,7 +12,7 @@ function App() {
 
         <img src={logo} className="App-logo" alt="logo" />
       </header>
-      <a className="App-link"
+      {/* <a className="App-link"
         href="https://www.instagram.com/kanestrom.art/"
         target="_blank"
         rel="noopener noreferrer">
@@ -23,7 +23,7 @@ function App() {
           target="_blank"
         rel="noopener noreferrer">
         <img src={facebook} className="Social-logo" alt="logo" />
-      </a>
+      </a> */}
 
       <Body />
       <Paintings />

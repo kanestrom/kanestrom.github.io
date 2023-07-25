@@ -1,14 +1,17 @@
 import Accordion from 'react-bootstrap/Accordion';
 import React from 'react';
+import headerimg from './fjes.jpg';
 
 function Body() {
   return (
     <div style={{ maxWidth: "800px", margin: "auto", textAlign: "left" }}>
 
+      <img src={headerimg} style={{ display: "flex", width: "100%" }} alt="headerimg" />
 
       <Accordion>
         <Accordion.Item eventKey="0">
-          <Accordion.Header>Om</Accordion.Header>
+          {/* <Accordion.Header>BIOGRAFI OG BESKRIVELSE AV KUNSTNERSTIL (NORSK)</Accordion.Header> */}
+          <Accordion.Header>Biografi og beskrivelse av kunstnerstil (Norsk)</Accordion.Header>
           <Accordion.Body>
 
             <h2>Biografi
@@ -54,7 +57,7 @@ function Body() {
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="1">
-          <Accordion.Header>About</Accordion.Header>
+          <Accordion.Header>Biography and artist statement (English)</Accordion.Header>
           <Accordion.Body>
 
             <h2>Biography
