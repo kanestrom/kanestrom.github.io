@@ -31,7 +31,7 @@ function Body() {
 
               Kanestrøm lever et rolig liv Bergen.
             </p>
-
+            <br>
             <h2>Min kunstnerstil
             </h2>
             <p>
@@ -50,7 +50,7 @@ function Body() {
             <p>
 
 
-              -Rakel Kristin Kanestrøm.
+              — Rakel Kristin Kanestrøm —
             </p>
 
 
