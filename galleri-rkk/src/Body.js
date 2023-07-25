@@ -1,6 +1,8 @@
 import Accordion from 'react-bootstrap/Accordion';
 import React from 'react';
 import headerimg from './fjes.jpg';
+import instagram from "./03 Black Glyph/Instagram_Glyph_Black.png"
+import facebook from "./black/PNG/f_logo_RGB-Black_114.png"
 
 function Body() {
   return (
@@ -105,6 +107,21 @@ function Body() {
         </Accordion.Item>
 
       </Accordion>
+      <div style={{ textAlign: "center" }}>
+
+        <a className="App-link"
+          href="https://www.instagram.com/kanestrom.art/"
+          target="_blank"
+          rel="noopener noreferrer">
+          <img src={instagram} className="Social-logo" alt="logo" />
+        </a>
+        <a className="App-link"
+          href="https://www.facebook.com/gallerirkk/"
+          target="_blank"
+          rel="noopener noreferrer">
+          <img src={facebook} className="Social-logo" alt="logo" />
+        </a>
+      </div>
 
 
     </div>
