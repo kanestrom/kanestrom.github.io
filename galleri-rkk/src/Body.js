@@ -31,7 +31,7 @@ function Body() {
 
               Kanestrøm lever et rolig liv Bergen.
             </p>
-            <br>
+            <br />
             <h2>Min kunstnerstil
             </h2>
             <p>
@@ -47,7 +47,7 @@ function Body() {
 
               Jeg lager også giclée trykk i begrenset opplag. Disse kan være inspirert av utsnitt fra noen av mine større arbeider, og blir gjerne videre bearbeidet digitalt, med maling eller på andre kreative måter for å lage det endelige giclée-trykket.
             </p>
-            <p>
+            <p style={{ textAlign: "center" }}>
 
 
               — Rakel Kristin Kanestrøm —
@@ -77,6 +77,8 @@ function Body() {
               Kanestrøm lives in Bergen, Norway.
             </p>
 
+            <br />
+
             <h2>Artist Statement
             </h2>
             <p>
@@ -93,10 +95,10 @@ function Body() {
 
               I also make limited edition giclée prints. These may be inspired by a portion of my larger works, which are then processed further – on a computer, with paint, or in any other creative way – to make the resulting giclée print.
             </p>
-            <p>
+            <p style={{ textAlign: "center" }}>
 
 
-              -Rakel Kristin Kanestrøm.
+              — Rakel Kristin Kanestrøm —
             </p>
 
           </Accordion.Body>
