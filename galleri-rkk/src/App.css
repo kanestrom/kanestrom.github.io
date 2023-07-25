@@ -7,6 +7,13 @@
   pointer-events: none;
 }
 
+.Social-logo {
+  height: 5vmin;
+  margin: 1vmin;
+  margin-bottom: 5vmin;
+
+}
+
 /* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -25,7 +32,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  height: max-content;
 }
 
 @keyframes App-logo-spin {
