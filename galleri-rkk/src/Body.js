@@ -14,8 +14,8 @@ function Body() {
           <Accordion.Header>Biografi og kunstnerstil (Norsk)</Accordion.Header>
           <Accordion.Body>
 
-            <h3>Biografi
-            </h3>
+            <h2>Biografi
+            </h2>
             <p>
               Det er en tid for alt. Rakel Kristin Kanestrøm var 53 år da hun begynte på Nydalen Kunstskole, og i 2022 var 3-årig billedkunstutdanning fullført.
 
@@ -32,8 +32,8 @@ function Body() {
               Kanestrøm lever et rolig liv Bergen.
             </p>
 
-            <h3>Min kunstnerstil
-            </h3>
+            <h2>Min kunstnerstil
+            </h2>
             <p>
 
               De første maleriene mine var abstrakte, intuitive bilder med flater bygget opp av flere lag. I løpet av utdannelsen ble det mer figurativt arbeid. Jeg jobber primært med akryl på lerret og papir, og bruker redskaper som kniv eller sparkel, pensler, papir etc. Kull og blekk er også med i verktøykassen.
@@ -60,8 +60,8 @@ function Body() {
           <Accordion.Header>Biography and artist statement (English)</Accordion.Header>
           <Accordion.Body>
 
-            <h3>Biography
-            </h3>
+            <h2>Biography
+            </h2>
             <p>
               There is a time for everything. Rakel Kristin Kanestrøm turned 53 before she attended her initial visual art studies at Nydalen Kunstskole. In 2022, she completed a 3-year visual arts education.
 
@@ -77,8 +77,8 @@ function Body() {
               Kanestrøm lives in Bergen, Norway.
             </p>
 
-            <h3>Artist Statement
-            </h3>
+            <h2>Artist Statement
+            </h2>
             <p>
 
               The word Reflections describes well what I want to convey on paper and canvases. My earliest paintings manifested as half-figurative, with several layers making up the surface. Lately I have gone more figurative. I work primarily with acrylic paint on canvas, using various tools – knife, trowel, brush, paper etc. During my studies, charcoal and ink have entered my toolkit.
