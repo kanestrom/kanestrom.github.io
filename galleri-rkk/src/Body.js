@@ -24,8 +24,8 @@ function Body() {
             </p>
 
             <p>
-              Fra før var hun sivilingeniør med doktorgrad i teknisk kybernetikk og arbeidserfaring fra olje- og gassindustrien. Hun har også stor interesse for holistisk helse og energiarbeid, og det var dette som via omveier førte henne til et kurs i intuitiv maling og senere billedkunstutdanning. 
-              Kanestrøms bakgrunn gir de kunstneriske arbeidene hennes en interessant touch av både matematikk, psykologi og spiritualitet. 
+              Fra før var hun sivilingeniør med doktorgrad i teknisk kybernetikk og arbeidserfaring fra olje- og gassindustrien. Hun har stor interesse for holistisk helse og energiarbeid, og det var dette som via omveier førte henne til et kurs i intuitiv maling og senere billedkunstutdanning. 
+              Kanestrøms bakgrunn gir de kunstneriske arbeidene hennes en interessant touch av matematikk, psykologi og spiritualitet. 
 
             </p>
 
