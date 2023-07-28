@@ -38,11 +38,11 @@ function Body() {
             </h2>
             <p>
 
-              De første maleriene mine var abstrakte, intuitive bilder med flater bygget opp av flere lag. I løpet av utdannelsen ble det mer figurativt arbeid. Jeg jobber primært med akryl på lerret og papir, og bruker redskaper som kniv eller sparkel, pensler, papir etc. Kull og blekk er også med i verktøykassen.
+              De første maleriene mine var abstrakte, intuitive bilder med flater bygget opp av flere lag. I løpet av utdannelsen ble det mer figurativt arbeid. Jeg jobber primært med akryl på lerret og papir, og bruker hovedsakelig pensler, sparkel, kniv og papir etc. som redskap. Kull og blekk er også med i verktøykassen.
             </p>
             <p>
 
-              Motivene mine er kollasjer av elementer fra eget liv, og jeg lar gjerne objektene sveve i løse luften. Noen vil nok observere at jeg inspireres av det vakre i matematikken. Jeg forsøker å bruke fargene slik at bildet kan formidle en overordnet ro. Den uvanlige sammenstillingen av elementer inviterer betrakteren til refleksjoner rundt eget liv og det som er.
+              Motivene mine er gjerne kollasjer av elementer fra eget liv, og jeg lar gjerne objektene sveve i løse luften. Noen vil nok observere at jeg inspireres av det vakre i matematikken. Til tross for en now kaotisk sammenstilling av elementer, forsøker jeg å bruke farger og komposisjon slik at bildet kan formidle en overordnet ro. Den uvanlige sammenstillingen av elementer inviterer betrakteren til refleksjoner rundt eget liv og det som er.
             </p>
             <p>
 
