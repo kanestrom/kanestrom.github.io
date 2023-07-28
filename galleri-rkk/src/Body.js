@@ -19,13 +19,13 @@ function Body() {
             <h2>Biografi
             </h2>
             <p>
-              Det er en tid for alt. Rakel Kristin Kanestrøm var 53 år da hun begynte på Nydalen Kunstskole, og i 2022 var 3-årig billedkunstutdanning fullført.
+              Det er en tid for alt. Rakel Kristin Kanestrøm begynte sin billedkunstutdanning som 53-åring, og i 2022 var tre lærerike år ved Nydalen Kunstskole fullført.
 
             </p>
 
             <p>
-              Kanestrøm hadde allerede en vitenskapelig utdannelse med doktorgrad i teknisk kybernetikk, og arbeidserfaring som førsteamanuensis i prosessregulering og sjefsingeniør i olje- og gassindustrien. Livets omstendigheter har ført til at Kanestrøm har utforsket en rekke holistiske helseteorier, og hun er spesielt interessert i sammenhengen mellom livshendelser og sykdom. Hun har også hatt stor glede av energiarbeid som kinesisk Feng Shui. 
-  Interessen for den menneskelige bevissthet gir nok en spirituell touch til hennes kunstneriske arbeider.
+              Fra før var hun sivilingeniør med doktorgrad i teknisk kybernetikk og arbeidserfaring fra olje- og gassindustrien. Hun har også stor interesse for holistisk helse og energiarbeid, og det var dette som via omveier førte henne til et kurs i intuitiv maling og senere billedkunstutdanning. 
+              Kanestrøms bakgrunn gir de kunstneriske arbeidene hennes en interessant touch av både matematikk, psykologi og spiritualitet. 
 
             </p>
 
