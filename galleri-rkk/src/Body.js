@@ -42,7 +42,7 @@ function Body() {
             </p>
             <p>
 
-              Motivene mine er gjerne kollasjer av elementer fra eget liv, og jeg lar gjerne objektene sveve i løse luften. Noen vil nok observere at jeg inspireres av det vakre i matematikken. Til tross for en now kaotisk sammenstilling av elementer, forsøker jeg å bruke farger og komposisjon slik at bildet kan formidle en overordnet ro. Den uvanlige sammenstillingen av elementer inviterer betrakteren til refleksjoner rundt eget liv og det som er.
+              Motivene mine er gjerne kollasjer av elementer fra eget liv, og jeg lar gjerne objektene sveve i løse luften. Noen vil nok observere at jeg inspireres av det vakre i matematikken. Til tross for en noe kaotisk sammenstilling av elementer, forsøker jeg å bruke farger og komposisjon slik at bildet kan formidle en overordnet ro. Den uvanlige sammenstillingen av elementer inviterer betrakteren til refleksjoner rundt eget liv og det som er.
             </p>
             <p>
 
